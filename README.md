@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm BHASKAR NEGI
 
-<!--
-**Flatron07/Flatron07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software, embedded tools, and security-focused projects across apps, web, ESP32, Arduino, and drone systems.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Cybersecurity tools and testing
+- ESP32 and Arduino development
+- Drone code and automation
+- App and website development
+- Vulnerability research and secure systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Linux
+- Networking
+- CTFs
+- Secure coding
+- System design
+- Pentesting
+
+## Education
+- Senior Secondary (PCM)
+- Secondary Education — :contentReference[oaicite:0]{index=0}, Vadodara
+- Primary Education — :contentReference[oaicite:1]{index=1}, Faridabad
