@@ -16,5 +16,5 @@ I build practical software, embedded tools, and security-focused projects across
 - Pentesting
 ## Qualifications
 - Senior Secondary (PCM)
-- Secondary Education — :contentReference[oaicite:0]{index=0}, Vadodara
-- Primary Education — :contentReference[oaicite:1]{index=1}, Faridabad
+- Primary Education — Dynasty International School, Faridabad
+- Secondary Education — Delhi Public School, Harni
