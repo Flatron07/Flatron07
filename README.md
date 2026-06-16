@@ -1,4 +1,4 @@
-# Hi, I'm BHASKAR NEGI
+## Hi, I'm BHASKAR NEGI
 
 17M who build practical software, embedded tools, and security-focused projects across apps, web, ESP32, Arduino, and drone systems.
 #### Focus Areas
