@@ -1,20 +1,25 @@
-## Hi, I'm BHASKAR NEGI
+# Hi, I'm Bhaskar Negi 👋
 
-17M who build practical software, embedded tools, and security-focused projects across apps, web, ESP32, Arduino, and drone systems.
-#### Focus Areas
-- Cybersecurity tools and testing
-- ESP32 and Arduino development
-- Drone code and automation
-- App and website development
-- Vulnerability research and secure systems
-#### Currently Learning
-- Linux
-- Networking
+ Software, Embedded Systems & Cybersecurity Enthusiast
+
+I build practical software, embedded tools, and security-focused projects using Python, ESP32, Arduino, and modern web technologies.
+
+### Interests
+- Cybersecurity & Pentesting
+- Embedded Systems (ESP32/Arduino)
+- Drone Development & Automation
+- Web & App Development
+- Linux & Networking
+
+### Currently Learning
 - CTFs
-- Secure coding
-- System design
-- Pentesting
-#### Qualifications
-- Senior Secondary (PCM)
-- Primary Education — Dynasty International School, Faridabad
-- Secondary Education — Delhi Public School, Harni
+- Secure Coding
+- System Design
+- Advanced Networking
+
+### Education 
+SSC- Delhi Public School, Harni, Vadodara  
+HSC- Dynasty International School, Faridabad
+
+---
+*"Building, breaking, learning, and securing."*
